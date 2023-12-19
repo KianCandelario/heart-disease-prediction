@@ -14,7 +14,6 @@ This project uses four different classification algorithms— KNN, Decision Tree
 The following are the classification algorithms that were used in the project. We provided the context on how the models gain insights into the underlying patterns and factors driving the predictions, providing explanations for the model's decision-making process.
 
 ### KNN
-
 ![KNN model sample](./images/KNN.png)
 *Caption: A visualization of how KNN classify a data point.*
 ([Image Source](https://www.iunera.com/kraken/fabric/k-nearest-neighbour-knn-algorithm/))
