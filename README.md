@@ -15,6 +15,7 @@ The following are the classification algorithms that were used in the project. W
 
 ### KNN
 ![KNN model sample](./images/KNN.png)
+
 *Caption: A visualization of how KNN classify a data point.*
 ([Image Source](https://www.iunera.com/kraken/fabric/k-nearest-neighbour-knn-algorithm/))
 
@@ -25,6 +26,7 @@ The following are the classification algorithms that were used in the project. W
 
 ### Decision Trees
 ![Decision Tree model sample](./images/DecisionTree.png)
+
 *Caption: A visualization of how Decision Tree classify a data point.*
 ([Image Source](https://www.iunera.com/kraken/fabric/k-nearest-neighbour-knn-algorithm/))
 
@@ -35,6 +37,7 @@ The following are the classification algorithms that were used in the project. W
 
 ### Random Forest
 ![Random Forest model sample](./images/RandomForest.png)
+
 *Caption: A visualization of how Random Forest classify a data point.*
 ([Image Source](https://serokell.io/blog/random-forest-classification))
 
@@ -45,11 +48,13 @@ The following are the classification algorithms that were used in the project. W
 
 ### Naive Bayes
 ![Naive Bayes model sample](./images/NaiveBayes.png)
+
 *Caption: A visualization of how Naive Bayes perform classification.*
 ([Image Source](https://innovationyourself.com/naive-bayes-classifier/))
 
 
 ![Naive Bayes formula](./image/../images/NaiveBayesFormula.png)
+
 *Caption: Formula of Naive Bayes*
 ([Image Source](https://www.turing.com/kb/an-introduction-to-naive-bayes-algorithm-for-beginners))
 
