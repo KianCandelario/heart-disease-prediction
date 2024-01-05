@@ -27,7 +27,7 @@ The following are the classification algorithms that were used in the project. W
 ### Decision Trees
 ![Decision Tree model sample](./images/DecisionTree.png)
 
-*Caption: A visualization of how Decision Tree classify a data point.*
+*Caption: A visualization of how Decision Tree classify a data.*
 ([Image Source](https://medium.com/@shrutimisra/interpretable-ai-decision-trees-f9698e94ef9b))
 
 **Underlying Principle:** Decision trees divides the feature space into regions and assign a class label to each region. It makes decisions by asking a series of questions based on features. The process continues until a stopping criterion is met, usually when a certain depth is reached.
@@ -38,7 +38,7 @@ The following are the classification algorithms that were used in the project. W
 ### Random Forest
 ![Random Forest model sample](./images/RandomForest.png)
 
-*Caption: A visualization of how Random Forest classify a data point.*
+*Caption: A visualization of how Random Forest classify a data.*
 ([Image Source](https://serokell.io/blog/random-forest-classification))
 
 **Underlying Principle:** Random Forest is an ensemble method that builds multiple decision trees and combines their predictions.
