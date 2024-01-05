@@ -28,7 +28,7 @@ The following are the classification algorithms that were used in the project. W
 ![Decision Tree model sample](./images/DecisionTree.png)
 
 *Caption: A visualization of how Decision Tree classify a data point.*
-([Image Source](https://www.iunera.com/kraken/fabric/k-nearest-neighbour-knn-algorithm/))
+([Image Source](https://medium.com/@shrutimisra/interpretable-ai-decision-trees-f9698e94ef9b))
 
 **Underlying Principle:** Decision trees divides the feature space into regions and assign a class label to each region. It makes decisions by asking a series of questions based on features. The process continues until a stopping criterion is met, usually when a certain depth is reached.
 
